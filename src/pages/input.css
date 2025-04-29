@@ -1,0 +1,22 @@
+
+
+
+
+
+input {
+    margin: 7px auto;
+}
+label{
+    margin: auto 5px;
+}
+.inputs {
+    display:flex;
+}
+.top-div {
+    display:flex;
+    
+    align-items:center;
+}
+.top-div input{
+    width: 80px;
+}
